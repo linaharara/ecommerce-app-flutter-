@@ -1,6 +1,6 @@
-# buy_it
+# ecommerce-app-flutter
 
-A new Flutter application.
+
 
 ## Getting Started
 
